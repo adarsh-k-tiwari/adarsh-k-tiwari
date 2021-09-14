@@ -65,8 +65,8 @@
   
 </p>
 
-https://github-readme-stats.vercel.app/api?username=adarsh-k-tiwari&theme=blue-green
-https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-k-tiwari&theme=blue-green
+<img src="https://github-readme-stats.vercel.app/api?username=adarsh-k-tiwari&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-k-tiwari&theme=blue-green"/>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>

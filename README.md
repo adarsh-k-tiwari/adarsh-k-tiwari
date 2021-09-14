@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3><I>I'm most at ease in the strange, strange world that exists between design, and development—where it's the most exciting, innovative, and boundary-breaking work takes place. </I></h3>
+<center><h3><I>I'm most at ease in the strange, strange world that exists between design, and development—where it's the most exciting, innovative, and boundary-breaking work takes place. </I></h3></center>
 
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>

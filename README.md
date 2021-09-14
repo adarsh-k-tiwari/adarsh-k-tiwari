@@ -9,7 +9,7 @@
 <h3 align="center"><I>I'm most at ease in the strange, strange world that exists between design, and development<br>Where it's the most exciting, innovative, and boundary-breaking work takes place. </I></h3>
 
 
-## 🛠️ My favorite tools
+<h2 align="center">🛠️ Tools 🛠️</h2>
 
 ### 👨‍💻 Programming languages
 

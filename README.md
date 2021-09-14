@@ -13,7 +13,6 @@
 
 ### 👨‍💻 Languages
 
-<p>
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)  
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -23,7 +22,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
   ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX)
   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-</p>
 
 ### 🧰 Frameworks and libraries
 

@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3>I'm most at ease in the strange, strange world that exists between design and development—where it's the most exciting, innovative, and boundary-breaking work takes place. I'm 21 year old Self-taught ML Engineer.</h3>
+<h2>I'm most at ease in the strange, strange world that exists between design and development—where it's the most exciting, innovative, and boundary-breaking work takes place. </h2>
 
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>

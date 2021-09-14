@@ -36,9 +36,9 @@
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
   <img alt="React JS" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="Sencha" src="https://img.shields.io/badge/Sencha-044059?logo=sencha&logoColor=#95C93D">
-  <img alt="SkLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white">
+  <img alt="SkLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=black">
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=black">
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -58,8 +58,8 @@
   <img alt="Anaconda" src="https://img.shields.io/badge/conda-342B029.svg?ogo=anaconda&logoColor=white">  
   <img alt="Collab" src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=black">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black">
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
   

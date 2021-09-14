@@ -30,14 +30,14 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">  
-  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">  
+  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white">
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
   <img alt="React JS" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-  <img alt="Sencha" src="https://img.shields.io/badge/Sencha-044059?style=for-the-badge&logo=sencha&logoColor=#95C93D">
-  <img alt="SkLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img alt="Sencha" src="https://img.shields.io/badge/Sencha-044059?logo=sencha&logoColor=#95C93D">
+  <img alt="SkLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white">
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
 </p>
 

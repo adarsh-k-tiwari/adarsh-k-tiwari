@@ -13,15 +13,20 @@
 
 ### 👨‍💻 Languages
 
-  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  ![C](https://img.shields.io/badge/-C-000?&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX)
-  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<p>
+   >
+    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+    <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+   
+</p>
 
 ### 🧰 Frameworks and libraries
 

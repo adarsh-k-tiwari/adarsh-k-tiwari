@@ -65,21 +65,15 @@
   
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
 
+<h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adarsh-k-tiwari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adarsh-k-tiwari&layout=compact&langs_count=8&theme=algolia"/>
 </a><br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <h6><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 </p>
-
-<!--  <img alt="Adarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adarsh-k-tiwari&theme=blue" height="192px"/>
- <img alt="Adarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-k-tiwari&theme=blue" height="192px"/>
-  <br/>-->
-  
-
 
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>

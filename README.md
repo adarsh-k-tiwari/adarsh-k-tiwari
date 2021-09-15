@@ -55,7 +55,6 @@
 <p>
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=black">
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6">
-  <img alt="Anaconda" src="https://img.shields.io/badge/conda-342B029.svg?ogo=anaconda&logoColor=white">  
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=black">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black">
@@ -81,21 +80,13 @@
   <a align="left" href="https://github.com/adarsh-k-tiwari/Invoice-Management-App" title="Invoice Management Web App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-k-tiwari&repo=Invoice-Management-App&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/adarsh-k-tiwari/Bangalore-House-Price" title="Bangalore House Price Prediction"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-k-tiwari&repo=Bangalore-House-Price&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<h2 align="center">🤝🏻 Connect with Me 🤝🏻</h2><br>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/adarshktiwari/"><img src="https://img.shields.io/badge/-adarshktiwari-0077B5??style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tiwarikadarsh@gmail.com"><img src="https://img.shields.io/badge/-tiwarikadarsh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/adarsh_k_tiwari/"><img src="https://img.shields.io/badge/-@adarsh__k__tiwari-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/tiwarikadarsh/"><img src="https://img.shields.io/badge/-@tiwarikadarsh-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
-<h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+

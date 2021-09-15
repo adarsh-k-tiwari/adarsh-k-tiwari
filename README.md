@@ -8,7 +8,7 @@
 
 <h3 align="center"><I>I'm most at ease in the strange, strange world that exists between design, and development<br>Where it's the most exciting, innovative, and boundary-breaking work takes place. </I></h3>
 
-
+<br><br>
 <h2 align="center">🛠️ Tools 🛠️</h2>
 
 ### 👨‍💻 Languages
@@ -56,7 +56,6 @@
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=black">
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6">
   <img alt="Anaconda" src="https://img.shields.io/badge/conda-342B029.svg?ogo=anaconda&logoColor=white">  
-  <img alt="Collab" src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=black">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black">
@@ -64,7 +63,7 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
   
 </p>
-
+<br><br>
 
 <h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
 <p align="center">
@@ -75,7 +74,7 @@
   <h6><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 </p>
 
-
+<br><br>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">

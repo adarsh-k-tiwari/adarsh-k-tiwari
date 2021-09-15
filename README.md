@@ -65,9 +65,6 @@
   
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=adarsh-k-tiwari&theme=blue-green"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-k-tiwari&theme=blue-green"/>
-
 <details>
   <img alt="Adarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adarsh-k-tiwari&theme=blue" height="192px"/>
  <img alt="Adarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-k-tiwari&theme=blue" height="192px"/>

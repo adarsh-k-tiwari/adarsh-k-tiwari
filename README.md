@@ -77,17 +77,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/adarsh-k-tiwari/Invoice-Management-App" title="Invoice Management Web App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-k-tiwari&repo=Invoice-Management-App&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/adarsh-k-tiwari/WeatherVerse" title="Weather Verse"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-k-tiwari&repo=WeatherVerse&theme=react&border_color=61dafb&border_radius=10"></a><br><br><br>
-  <a align="right" href="https://github.com/adarsh-k-tiwari/GSTRB" title="GTSRB Deep Learning"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-k-tiwari&repo=GSTRB&theme=react&border_color=61dafb&border_radius=10"></a><br><br><br>
-  <a align="left" href="https://github.com/adarsh-k-tiwari/SpaceXPrediction" title="SpaceX Falcon 9 First Stage Launch Prediction"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-k-tiwari&repo=SpaceXPrediction&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/adarsh-k-tiwari/Invoice-Management-App" title="Invoice Management Web App"><img align="left" width="350" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-k-tiwari&repo=Invoice-Management-App&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/adarsh-k-tiwari/WeatherVerse" title="Weather Verse"><img align="right" width="350" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-k-tiwari&repo=WeatherVerse&theme=react&border_color=61dafb&border_radius=10"></a><br><br><br>
+  <a align="right" href="https://github.com/adarsh-k-tiwari/GSTRB" title="GTSRB Deep Learning"><img align="left" width="350" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-k-tiwari&repo=GSTRB&theme=react&border_color=61dafb&border_radius=10"></a><br><br><br>
+  <a align="left" href="https://github.com/adarsh-k-tiwari/SpaceXPrediction" title="SpaceX Falcon 9 First Stage Launch Prediction"><img align="right" width="350" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-k-tiwari&repo=SpaceXPrediction&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h2 align="center">🤝🏻 Connect with Me 🤝🏻</h2><br>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/adarshktiwari/"><img src="https://img.shields.io/badge/-adarshktiwari-0077B5??style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adarsh-k-tiwari/"><img src="https://img.shields.io/badge/-adarshktiwari-0077B5??style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tiwarikadarsh@gmail.com"><img src="https://img.shields.io/badge/-tiwarikadarsh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/adarsh_k_tiwari/"><img src="https://img.shields.io/badge/-@adarsh__k__tiwari-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/tiwarikadarsh/"><img src="https://img.shields.io/badge/-@tiwarikadarsh-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
